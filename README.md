@@ -2,7 +2,8 @@
 Which Cereal Killer R U (personality) Test
 
 ## Description
-There will be 10 different Ceral killers you can resonate with such as Jack the Skipper and Ted Bunny ;) ;) *#FamilyFriendly*
+There will be 10 different Ceral killers you can resonate with such as Jack the Skipper and Ted Bunny ;) ;) *#FamilyFriendly*.
+There will be a total of 16 different questions. Each question has a different amount of options as well as different questions to see which cereal killer are you! 
 
 ## Contributors 
 * Tiger Yang
