@@ -14,4 +14,5 @@ There will be a total of 16 different questions. Each question has a different a
 
 ## Class Diagram
 ![image](https://github.com/user-attachments/assets/13a24042-9d2a-442f-944c-aac971bd86b5)
+<img width="310" alt="Screenshot 2025-03-12 at 12 30 07 PM" src="https://github.com/user-attachments/assets/897ad7bb-1457-430b-b46d-4ece59706cac" />
 
