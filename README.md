@@ -2,7 +2,7 @@
 Which Cereal Killer R U (personality) Test
 
 ## Description
-There will be 10 different Ceral killers you can get such as Jack the Skipper and Ted Bunny ;) ;) *#FamilyFriendly*
+There will be 10 different Ceral killers you can resonate with such as Jack the Skipper and Ted Bunny ;) ;) *#FamilyFriendly*
 
 ## Contributors 
 * Tiger Yang
