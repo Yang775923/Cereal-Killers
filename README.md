@@ -19,6 +19,17 @@ There will be a total of 16 different questions. Each question has a different a
 #### REsults ☠
 <img width="358" alt="Screenshot 2025-03-17 at 11 34 52 AM" src="https://github.com/user-attachments/assets/65fb242d-ed9a-4e89-8ce0-a5db44dea969" />
 
+#### Real question teaser: 
+Question 8: Interests and Beliefs 
+*Justice (NA) 
+*Conspiracies (SK) 
+*Religion (SK) 
+*Power (SK)
+*Gaming (SK)
+*Socializing (SK) 
+*DIY Crafting (SK)
+(SK = serial killer && NA = Normal answer) 
+
 ## Class Diagram
 ![image](https://github.com/user-attachments/assets/13a24042-9d2a-442f-944c-aac971bd86b5)
 
