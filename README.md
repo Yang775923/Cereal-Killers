@@ -28,6 +28,8 @@ Question 8: Interests and Beliefs
 * Gaming (SK)
 * Socializing (SK) 
 * DIY Crafting (SK)
+
+
 (SK = serial killer && NA = Normal answer) 
 
 ## Class Diagram
