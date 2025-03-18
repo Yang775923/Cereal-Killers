@@ -21,13 +21,13 @@ There will be a total of 16 different questions. Each question has a different a
 
 #### Real question teaser: 
 Question 8: Interests and Beliefs 
-*Justice (NA) 
-*Conspiracies (SK) 
-*Religion (SK) 
-*Power (SK)
-*Gaming (SK)
-*Socializing (SK) 
-*DIY Crafting (SK)
+* Justice (NA) 
+* Conspiracies (SK) 
+* Religion (SK) 
+* Power (SK)
+* Gaming (SK)
+* Socializing (SK) 
+* DIY Crafting (SK)
 (SK = serial killer && NA = Normal answer) 
 
 ## Class Diagram
